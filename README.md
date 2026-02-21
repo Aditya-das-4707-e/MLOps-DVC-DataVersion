@@ -1,6 +1,10 @@
 1. Create git repo and clone it in local.
 2. Create <your-file-name>.py and add code to it. (it will save a csv file to a new "data" folder)
 3. Do a git add-commit-push before initializing dvc.
+
+   #### If you in linux then make sure you create virtual env folder and actived this folder
+   #### For windows you can run normally.
+
 ```bash
 pip install dvc
 ```
